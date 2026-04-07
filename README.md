@@ -1,2 +1,2 @@
 # Conversal 🗣️
-An EdTech Platform - Learn any language practically
+An EdTech Platform - Learn any language practically and efficiently
